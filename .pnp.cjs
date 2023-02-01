@@ -26,14 +26,122 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
+          ["@apollo/client", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:3.7.6"],\
+          ["@apollo/react-hooks", "npm:4.0.0"],\
+          ["@heroicons/react", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:2.0.14"],\
           ["@next/font", "npm:13.1.6"],\
+          ["cross-fetch", "npm:3.1.5"],\
           ["eslint", "npm:8.33.0"],\
           ["eslint-config-next", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:13.1.6"],\
+          ["graphql", "npm:16.6.0"],\
           ["next", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:13.1.6"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:18.2.0"]\
         ],\
         "linkType": "SOFT"\
+      }]\
+    ]],\
+    ["@apollo/client", [\
+      ["npm:3.7.6", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@apollo-client-npm-3.7.6-997b7e5d2d-9.zip/node_modules/@apollo/client/",\
+        "packageDependencies": [\
+          ["@apollo/client", "npm:3.7.6"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:38c273bfaed9824342cd0f7d7baf6a4fb9e207544962329196cb4e05e9a26a8329f2cc8685d13225be550131aadf66a3820e663c7077d46a4fce425265cf8473#npm:3.7.6", {\
+        "packageLocation": "./.yarn/__virtual__/@apollo-client-virtual-ca82d5f22d/4/C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@apollo-client-npm-3.7.6-997b7e5d2d-9.zip/node_modules/@apollo/client/",\
+        "packageDependencies": [\
+          ["@apollo/client", "virtual:38c273bfaed9824342cd0f7d7baf6a4fb9e207544962329196cb4e05e9a26a8329f2cc8685d13225be550131aadf66a3820e663c7077d46a4fce425265cf8473#npm:3.7.6"],\
+          ["@graphql-typed-document-node/core", "virtual:ca82d5f22d2a00b413589459efaa667e37700dff73c37344398e2942271c98e0cffe0a88453d56a0d63116cbc56de76771bdca9ebac388a06127a2fdf89d0516#npm:3.1.1"],\
+          ["@types/graphql", null],\
+          ["@types/graphql-ws", null],\
+          ["@types/react", null],\
+          ["@types/react-dom", null],\
+          ["@types/subscriptions-transport-ws", null],\
+          ["@wry/context", "npm:0.7.0"],\
+          ["@wry/equality", "npm:0.5.3"],\
+          ["@wry/trie", "npm:0.3.2"],\
+          ["graphql", null],\
+          ["graphql-tag", "virtual:ca82d5f22d2a00b413589459efaa667e37700dff73c37344398e2942271c98e0cffe0a88453d56a0d63116cbc56de76771bdca9ebac388a06127a2fdf89d0516#npm:2.12.6"],\
+          ["graphql-ws", null],\
+          ["hoist-non-react-statics", "npm:3.3.2"],\
+          ["optimism", "npm:0.16.2"],\
+          ["prop-types", "npm:15.8.1"],\
+          ["react", null],\
+          ["react-dom", null],\
+          ["response-iterator", "npm:0.2.6"],\
+          ["subscriptions-transport-ws", null],\
+          ["symbol-observable", "npm:4.0.0"],\
+          ["ts-invariant", "npm:0.10.3"],\
+          ["tslib", "npm:2.5.0"],\
+          ["zen-observable-ts", "npm:1.2.5"]\
+        ],\
+        "packagePeers": [\
+          "@types/graphql-ws",\
+          "@types/graphql",\
+          "@types/react-dom",\
+          "@types/react",\
+          "@types/subscriptions-transport-ws",\
+          "graphql-ws",\
+          "graphql",\
+          "react-dom",\
+          "react",\
+          "subscriptions-transport-ws"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:3.7.6", {\
+        "packageLocation": "./.yarn/__virtual__/@apollo-client-virtual-6eeec542a2/4/C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@apollo-client-npm-3.7.6-997b7e5d2d-9.zip/node_modules/@apollo/client/",\
+        "packageDependencies": [\
+          ["@apollo/client", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:3.7.6"],\
+          ["@graphql-typed-document-node/core", "virtual:6eeec542a29779a4d6c875a74d56819954b6ef64b231dda798171ee2e03bc6a571a839519417b60ea1a2d4a84f38685035682de950c5d428030164ef7e59eba4#npm:3.1.1"],\
+          ["@types/graphql", null],\
+          ["@types/graphql-ws", null],\
+          ["@types/react", null],\
+          ["@types/react-dom", null],\
+          ["@types/subscriptions-transport-ws", null],\
+          ["@wry/context", "npm:0.7.0"],\
+          ["@wry/equality", "npm:0.5.3"],\
+          ["@wry/trie", "npm:0.3.2"],\
+          ["graphql", "npm:16.6.0"],\
+          ["graphql-tag", "virtual:6eeec542a29779a4d6c875a74d56819954b6ef64b231dda798171ee2e03bc6a571a839519417b60ea1a2d4a84f38685035682de950c5d428030164ef7e59eba4#npm:2.12.6"],\
+          ["graphql-ws", null],\
+          ["hoist-non-react-statics", "npm:3.3.2"],\
+          ["optimism", "npm:0.16.2"],\
+          ["prop-types", "npm:15.8.1"],\
+          ["react", "npm:18.2.0"],\
+          ["react-dom", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:18.2.0"],\
+          ["response-iterator", "npm:0.2.6"],\
+          ["subscriptions-transport-ws", null],\
+          ["symbol-observable", "npm:4.0.0"],\
+          ["ts-invariant", "npm:0.10.3"],\
+          ["tslib", "npm:2.5.0"],\
+          ["zen-observable-ts", "npm:1.2.5"]\
+        ],\
+        "packagePeers": [\
+          "@types/graphql-ws",\
+          "@types/graphql",\
+          "@types/react-dom",\
+          "@types/react",\
+          "@types/subscriptions-transport-ws",\
+          "graphql-ws",\
+          "graphql",\
+          "react-dom",\
+          "react",\
+          "subscriptions-transport-ws"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@apollo/react-hooks", [\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@apollo-react-hooks-npm-4.0.0-38c273bfae-9.zip/node_modules/@apollo/react-hooks/",\
+        "packageDependencies": [\
+          ["@apollo/react-hooks", "npm:4.0.0"],\
+          ["@apollo/client", "virtual:38c273bfaed9824342cd0f7d7baf6a4fb9e207544962329196cb4e05e9a26a8329f2cc8685d13225be550131aadf66a3820e663c7077d46a4fce425265cf8473#npm:3.7.6"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["@babel/runtime", [\
@@ -60,6 +168,63 @@ const RAW_RUNTIME_STATE =
           ["js-yaml", "npm:4.1.0"],\
           ["minimatch", "npm:3.1.2"],\
           ["strip-json-comments", "npm:3.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@graphql-typed-document-node/core", [\
+      ["npm:3.1.1", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@graphql-typed-document-node-core-npm-3.1.1-b1b114073d-9.zip/node_modules/@graphql-typed-document-node/core/",\
+        "packageDependencies": [\
+          ["@graphql-typed-document-node/core", "npm:3.1.1"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:6eeec542a29779a4d6c875a74d56819954b6ef64b231dda798171ee2e03bc6a571a839519417b60ea1a2d4a84f38685035682de950c5d428030164ef7e59eba4#npm:3.1.1", {\
+        "packageLocation": "./.yarn/__virtual__/@graphql-typed-document-node-core-virtual-352d08a6a7/4/C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@graphql-typed-document-node-core-npm-3.1.1-b1b114073d-9.zip/node_modules/@graphql-typed-document-node/core/",\
+        "packageDependencies": [\
+          ["@graphql-typed-document-node/core", "virtual:6eeec542a29779a4d6c875a74d56819954b6ef64b231dda798171ee2e03bc6a571a839519417b60ea1a2d4a84f38685035682de950c5d428030164ef7e59eba4#npm:3.1.1"],\
+          ["@types/graphql", null],\
+          ["graphql", "npm:16.6.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/graphql",\
+          "graphql"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:ca82d5f22d2a00b413589459efaa667e37700dff73c37344398e2942271c98e0cffe0a88453d56a0d63116cbc56de76771bdca9ebac388a06127a2fdf89d0516#npm:3.1.1", {\
+        "packageLocation": "./.yarn/__virtual__/@graphql-typed-document-node-core-virtual-e90d821d25/4/C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@graphql-typed-document-node-core-npm-3.1.1-b1b114073d-9.zip/node_modules/@graphql-typed-document-node/core/",\
+        "packageDependencies": [\
+          ["@graphql-typed-document-node/core", "virtual:ca82d5f22d2a00b413589459efaa667e37700dff73c37344398e2942271c98e0cffe0a88453d56a0d63116cbc56de76771bdca9ebac388a06127a2fdf89d0516#npm:3.1.1"],\
+          ["@types/graphql", null],\
+          ["graphql", null]\
+        ],\
+        "packagePeers": [\
+          "@types/graphql",\
+          "graphql"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@heroicons/react", [\
+      ["npm:2.0.14", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@heroicons-react-npm-2.0.14-86afe97808-9.zip/node_modules/@heroicons/react/",\
+        "packageDependencies": [\
+          ["@heroicons/react", "npm:2.0.14"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:2.0.14", {\
+        "packageLocation": "./.yarn/__virtual__/@heroicons-react-virtual-ab157440fb/4/C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@heroicons-react-npm-2.0.14-86afe97808-9.zip/node_modules/@heroicons/react/",\
+        "packageDependencies": [\
+          ["@heroicons/react", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:2.0.14"],\
+          ["@types/react", null],\
+          ["react", "npm:18.2.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/react",\
+          "react"\
         ],\
         "linkType": "HARD"\
       }]\
@@ -403,6 +568,36 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@wry/context", [\
+      ["npm:0.7.0", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@wry-context-npm-0.7.0-0eeba0eb62-9.zip/node_modules/@wry/context/",\
+        "packageDependencies": [\
+          ["@wry/context", "npm:0.7.0"],\
+          ["tslib", "npm:2.5.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@wry/equality", [\
+      ["npm:0.5.3", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@wry-equality-npm-0.5.3-f33e7d1c57-9.zip/node_modules/@wry/equality/",\
+        "packageDependencies": [\
+          ["@wry/equality", "npm:0.5.3"],\
+          ["tslib", "npm:2.5.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@wry/trie", [\
+      ["npm:0.3.2", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/@wry-trie-npm-0.3.2-68fe447c78-9.zip/node_modules/@wry/trie/",\
+        "packageDependencies": [\
+          ["@wry/trie", "npm:0.3.2"],\
+          ["tslib", "npm:2.5.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["acorn", [\
       ["npm:8.8.2", {\
         "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/acorn-npm-8.8.2-9d518fd7d3-9.zip/node_modules/acorn/",\
@@ -688,6 +883,16 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/concat-map-npm-0.0.1-85a921b7ee-9.zip/node_modules/concat-map/",\
         "packageDependencies": [\
           ["concat-map", "npm:0.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["cross-fetch", [\
+      ["npm:3.1.5", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/cross-fetch-npm-3.1.5-e414995db9-9.zip/node_modules/cross-fetch/",\
+        "packageDependencies": [\
+          ["cross-fetch", "npm:3.1.5"],\
+          ["node-fetch", "virtual:e414995db9c779306e687c7a7c66965e66d0cd7270f6b9fc4f00cc9772c5d50b305ab83e142e0e21dbf10968f7437cbdfcb170d05f4bde68707ac7d0082c9cca#npm:2.6.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1691,6 +1896,52 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["graphql", [\
+      ["npm:16.6.0", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/graphql-npm-16.6.0-301c470966-9.zip/node_modules/graphql/",\
+        "packageDependencies": [\
+          ["graphql", "npm:16.6.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["graphql-tag", [\
+      ["npm:2.12.6", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/graphql-tag-npm-2.12.6-99a5a7f6de-9.zip/node_modules/graphql-tag/",\
+        "packageDependencies": [\
+          ["graphql-tag", "npm:2.12.6"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:6eeec542a29779a4d6c875a74d56819954b6ef64b231dda798171ee2e03bc6a571a839519417b60ea1a2d4a84f38685035682de950c5d428030164ef7e59eba4#npm:2.12.6", {\
+        "packageLocation": "./.yarn/__virtual__/graphql-tag-virtual-02d9b1354c/4/C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/graphql-tag-npm-2.12.6-99a5a7f6de-9.zip/node_modules/graphql-tag/",\
+        "packageDependencies": [\
+          ["graphql-tag", "virtual:6eeec542a29779a4d6c875a74d56819954b6ef64b231dda798171ee2e03bc6a571a839519417b60ea1a2d4a84f38685035682de950c5d428030164ef7e59eba4#npm:2.12.6"],\
+          ["@types/graphql", null],\
+          ["graphql", "npm:16.6.0"],\
+          ["tslib", "npm:2.5.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/graphql",\
+          "graphql"\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["virtual:ca82d5f22d2a00b413589459efaa667e37700dff73c37344398e2942271c98e0cffe0a88453d56a0d63116cbc56de76771bdca9ebac388a06127a2fdf89d0516#npm:2.12.6", {\
+        "packageLocation": "./.yarn/__virtual__/graphql-tag-virtual-6113b06a37/4/C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/graphql-tag-npm-2.12.6-99a5a7f6de-9.zip/node_modules/graphql-tag/",\
+        "packageDependencies": [\
+          ["graphql-tag", "virtual:ca82d5f22d2a00b413589459efaa667e37700dff73c37344398e2942271c98e0cffe0a88453d56a0d63116cbc56de76771bdca9ebac388a06127a2fdf89d0516#npm:2.12.6"],\
+          ["@types/graphql", null],\
+          ["graphql", null],\
+          ["tslib", "npm:2.5.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/graphql",\
+          "graphql"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["has", [\
       ["npm:1.0.3", {\
         "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/has-npm-1.0.3-b7f00631c1-9.zip/node_modules/has/",\
@@ -1753,6 +2004,16 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["has-tostringtag", "npm:1.0.0"],\
           ["has-symbols", "npm:1.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["hoist-non-react-statics", [\
+      ["npm:3.3.2", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/hoist-non-react-statics-npm-3.3.2-e7b709e6c1-9.zip/node_modules/hoist-non-react-statics/",\
+        "packageDependencies": [\
+          ["hoist-non-react-statics", "npm:3.3.2"],\
+          ["react-is", "npm:16.13.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2352,6 +2613,29 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["node-fetch", [\
+      ["npm:2.6.7", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/node-fetch-npm-2.6.7-777aa2a6df-9.zip/node_modules/node-fetch/",\
+        "packageDependencies": [\
+          ["node-fetch", "npm:2.6.7"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:e414995db9c779306e687c7a7c66965e66d0cd7270f6b9fc4f00cc9772c5d50b305ab83e142e0e21dbf10968f7437cbdfcb170d05f4bde68707ac7d0082c9cca#npm:2.6.7", {\
+        "packageLocation": "./.yarn/__virtual__/node-fetch-virtual-10f4bc17d9/4/C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/node-fetch-npm-2.6.7-777aa2a6df-9.zip/node_modules/node-fetch/",\
+        "packageDependencies": [\
+          ["node-fetch", "virtual:e414995db9c779306e687c7a7c66965e66d0cd7270f6b9fc4f00cc9772c5d50b305ab83e142e0e21dbf10968f7437cbdfcb170d05f4bde68707ac7d0082c9cca#npm:2.6.7"],\
+          ["@types/encoding", null],\
+          ["encoding", null],\
+          ["whatwg-url", "npm:5.0.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/encoding",\
+          "encoding"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["object-assign", [\
       ["npm:4.1.1", {\
         "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/object-assign-npm-4.1.1-1004ad6dec-9.zip/node_modules/object-assign/",\
@@ -2468,6 +2752,17 @@ const RAW_RUNTIME_STATE =
           ["define-lazy-prop", "npm:2.0.0"],\
           ["is-docker", "npm:2.2.1"],\
           ["is-wsl", "npm:2.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["optimism", [\
+      ["npm:0.16.2", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/optimism-npm-0.16.2-032b6c6da9-9.zip/node_modules/optimism/",\
+        "packageDependencies": [\
+          ["optimism", "npm:0.16.2"],\
+          ["@wry/context", "npm:0.7.0"],\
+          ["@wry/trie", "npm:0.3.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2735,6 +3030,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["response-iterator", [\
+      ["npm:0.2.6", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/response-iterator-npm-0.2.6-c70879657b-9.zip/node_modules/response-iterator/",\
+        "packageDependencies": [\
+          ["response-iterator", "npm:0.2.6"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["reusify", [\
       ["npm:1.0.4", {\
         "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/reusify-npm-1.0.4-95ac4aec11-9.zip/node_modules/reusify/",\
@@ -2988,6 +3292,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["symbol-observable", [\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/symbol-observable-npm-4.0.0-5c36594410-9.zip/node_modules/symbol-observable/",\
+        "packageDependencies": [\
+          ["symbol-observable", "npm:4.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["synckit", [\
       ["npm:0.8.5", {\
         "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/synckit-npm-0.8.5-40a594eb38-9.zip/node_modules/synckit/",\
@@ -3043,14 +3356,38 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["todo", "workspace:."],\
+          ["@apollo/client", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:3.7.6"],\
+          ["@apollo/react-hooks", "npm:4.0.0"],\
+          ["@heroicons/react", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:2.0.14"],\
           ["@next/font", "npm:13.1.6"],\
+          ["cross-fetch", "npm:3.1.5"],\
           ["eslint", "npm:8.33.0"],\
           ["eslint-config-next", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:13.1.6"],\
+          ["graphql", "npm:16.6.0"],\
           ["next", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:13.1.6"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:18.2.0"]\
         ],\
         "linkType": "SOFT"\
+      }]\
+    ]],\
+    ["tr46", [\
+      ["npm:0.0.3", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/tr46-npm-0.0.3-de53018915-9.zip/node_modules/tr46/",\
+        "packageDependencies": [\
+          ["tr46", "npm:0.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["ts-invariant", [\
+      ["npm:0.10.3", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/ts-invariant-npm-0.10.3-4657a5b439-9.zip/node_modules/ts-invariant/",\
+        "packageDependencies": [\
+          ["ts-invariant", "npm:0.10.3"],\
+          ["tslib", "npm:2.5.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["tsconfig-paths", [\
@@ -3159,6 +3496,26 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["webidl-conversions", [\
+      ["npm:3.0.1", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/webidl-conversions-npm-3.0.1-60310f6a2b-9.zip/node_modules/webidl-conversions/",\
+        "packageDependencies": [\
+          ["webidl-conversions", "npm:3.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["whatwg-url", [\
+      ["npm:5.0.0", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/whatwg-url-npm-5.0.0-374fb45e60-9.zip/node_modules/whatwg-url/",\
+        "packageDependencies": [\
+          ["whatwg-url", "npm:5.0.0"],\
+          ["tr46", "npm:0.0.3"],\
+          ["webidl-conversions", "npm:3.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["which", [\
       ["npm:2.0.2", {\
         "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/which-npm-2.0.2-320ddf72f7-9.zip/node_modules/which/",\
@@ -3243,6 +3600,25 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/yocto-queue-npm-0.1.0-c6c9a7db29-9.zip/node_modules/yocto-queue/",\
         "packageDependencies": [\
           ["yocto-queue", "npm:0.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["zen-observable", [\
+      ["npm:0.8.15", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/zen-observable-npm-0.8.15-3bec99c19c-9.zip/node_modules/zen-observable/",\
+        "packageDependencies": [\
+          ["zen-observable", "npm:0.8.15"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["zen-observable-ts", [\
+      ["npm:1.2.5", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/zen-observable-ts-npm-1.2.5-4ddaa0e233-9.zip/node_modules/zen-observable-ts/",\
+        "packageDependencies": [\
+          ["zen-observable-ts", "npm:1.2.5"],\
+          ["zen-observable", "npm:0.8.15"]\
         ],\
         "linkType": "HARD"\
       }]\
