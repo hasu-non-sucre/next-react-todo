@@ -30,6 +30,7 @@ const RAW_RUNTIME_STATE =
           ["@apollo/react-hooks", "npm:4.0.0"],\
           ["@heroicons/react", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:2.0.14"],\
           ["@next/font", "npm:13.1.6"],\
+          ["classnames", "npm:2.3.2"],\
           ["cross-fetch", "npm:3.1.5"],\
           ["eslint", "npm:8.33.0"],\
           ["eslint-config-next", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:13.1.6"],\
@@ -846,6 +847,15 @@ const RAW_RUNTIME_STATE =
           ["chalk", "npm:4.1.2"],\
           ["ansi-styles", "npm:4.3.0"],\
           ["supports-color", "npm:7.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["classnames", [\
+      ["npm:2.3.2", {\
+        "packageLocation": "../../../C:/Users/hasu_/AppData/Local/Yarn/Berry/cache/classnames-npm-2.3.2-d2fdae468d-9.zip/node_modules/classnames/",\
+        "packageDependencies": [\
+          ["classnames", "npm:2.3.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3360,6 +3370,7 @@ const RAW_RUNTIME_STATE =
           ["@apollo/react-hooks", "npm:4.0.0"],\
           ["@heroicons/react", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:2.0.14"],\
           ["@next/font", "npm:13.1.6"],\
+          ["classnames", "npm:2.3.2"],\
           ["cross-fetch", "npm:3.1.5"],\
           ["eslint", "npm:8.33.0"],\
           ["eslint-config-next", "virtual:d25bef3d82aabde5e10d0c8ae650b74ee0d7708cb1edf6c5eb4136a5fa66c13567ca3c0c632be64734da3e9fff5417589e16e1a4e1f09e79020b4d65018a0d57#npm:13.1.6"],\

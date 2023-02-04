@@ -595,6 +595,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"classnames@npm:^2.3.2":
+  version: 2.3.2
+  resolution: "classnames@npm:2.3.2"
+  checksum: ecbd166e986b9095e01eba91958907ed43026e35aac98d667a9e958642795632c15a88f36785c66bcfbe05df32e47c1575d22faa46c29de271b013eb00202498
+  languageName: node
+  linkType: hard
+
 "client-only@npm:0.0.1":
   version: 0.0.1
   resolution: "client-only@npm:0.0.1"
@@ -2701,6 +2708,7 @@ __metadata:
     "@apollo/react-hooks": "npm:^4.0.0"
     "@heroicons/react": "npm:^2.0.14"
     "@next/font": "npm:13.1.6"
+    classnames: "npm:^2.3.2"
     cross-fetch: "npm:^3.1.5"
     eslint: "npm:8.33.0"
     eslint-config-next: "npm:13.1.6"
