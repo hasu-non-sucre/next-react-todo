@@ -34,9 +34,7 @@ export default function Home() {
   function Todo() {
     const getKey = () => Math.random().toString(32).substring(2);
     const [items, setItems] = React.useState([
-      { key: getKey(), text: 'Learn JavaScript', done: false },
-      { key: getKey(), text: 'Learn React', done: false },
-      { key: getKey(), text: 'Get some good sleep', done: false },
+      { key: getKey(), text: 'Example Item', done: false },
     ]);
 
     const handleCheck = checked => {
