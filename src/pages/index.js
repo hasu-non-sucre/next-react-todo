@@ -88,7 +88,7 @@ export default function Home() {
     );
   }
 
-  function Input() {
+  function Input({ onAdd }) {
     const [text, setText] = React.useState('');
 
     const handleChange = e => setText(e.target.value);
